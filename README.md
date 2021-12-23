@@ -32,7 +32,7 @@ To use Google style in conjunction with ESLint's recommended rule set, extend th
 }
 ```
 
-To see how the `ftbackend` config compares with `eslint:recommended`, refer to the [source code of `index.js`](https://github.com/google/eslint-config-google/blob/master/index.js), which lists every ESLint rule along with whether (and how) it is enforced by the `ftbackend` config.
+To see how the `ftbackend` config compares with `eslint:recommended`, refer to the [source code of `index.js`](https://github.com/funtuan/eslint-config-ftbackend/blob/master/index.js), which lists every ESLint rule along with whether (and how) it is enforced by the `ftbackend` config.
 
 ## License
 
