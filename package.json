@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-ftbackend",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "npm publish"
+  },
+  "author": "funtuan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funtuan/eslint-config-ftbackend.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint-config-google": "^0.14.0"
+  }
+}
